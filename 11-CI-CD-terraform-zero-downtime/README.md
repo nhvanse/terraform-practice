@@ -66,5 +66,8 @@ git push
             }
         }
     ```
+    - With that, when we run apply, terraform create a new instance before it terminates the current one.
+
+
 
 
